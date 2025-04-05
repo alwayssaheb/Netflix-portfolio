@@ -1,0 +1,26 @@
+.play-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #ffffffff;
+    border-radius: 4px;
+    padding: 10px 20px;
+}
+.label{
+    color: black;
+    font-size: 1rem;
+}
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.spacer{
+    width: 1rem;
+}
+
+
+
+
+

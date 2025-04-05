@@ -1,0 +1,20 @@
+.browse-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.who-is-watching{
+    color: #fff;
+    font-size: 3.5vw;
+    font-weight: unset;
+    width: 100%;
+    text-align: center;
+}

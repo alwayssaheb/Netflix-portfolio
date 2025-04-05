@@ -1,0 +1,49 @@
+/* WorkExperience.css */
+.work-experience {
+    background: linear-gradient(to bottom right, #000000, #1c1c1c);
+    color: white;
+    min-height: 100vh;
+    padding: 40px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .heading {
+    font-size: 3rem;
+    text-align: center;
+    color: #e50914;
+    margin-bottom: 50px;
+    letter-spacing: 1px;
+  }
+  
+  .experience-card {
+    background-color: #121212;
+    border: 1px solid #333;
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 40px;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .experience-card:hover {
+    box-shadow: 0 0 20px rgba(229, 9, 20, 0.4);
+  }
+  
+  .company-name {
+    font-size: 1.5rem;
+    color: #e50914;
+    margin-bottom: 6px;
+  }
+  
+  .duration {
+    font-size: 0.9rem;
+    color: #aaa;
+    margin-bottom: 16px;
+  }
+  
+  .description {
+    list-style: disc;
+    padding-left: 20px;
+    line-height: 1.6;
+    color: #ddd;
+  }
+  

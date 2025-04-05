@@ -1,0 +1,51 @@
+/* Certifications.css */
+
+.certifications {
+    height: 100vh;
+    background-color: #141414; /* Netflix dark background */
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  
+  .content-box {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.75);
+    padding: 3rem;
+    border-radius: 12px;
+    box-shadow: 0 0 40px rgba(255, 0, 0, 0.2);
+    max-width: 500px;
+    width: 90%;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #e50914; /* Netflix red */
+  }
+  
+  .message {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+    color: #ffffff;
+  }
+  
+  .projects-button {
+    background-color: #e50914;
+    border: none;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .projects-button:hover {
+    background-color: #b00610;
+  }
+  

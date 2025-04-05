@@ -1,0 +1,30 @@
+.profile-card{
+    border-radius: 0.5rem;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.image-container{
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.profile-picture{
+    border-radius: 0.5rem;
+    border: 5px solid transparent;
+}
+.profile-card:hover {
+    border-color: #e5e5e5;
+    color: #e5e5e5;
+  }
+  .image-container:hover {
+    border-color: #e5e5e5;
+    color: #e5e5e5;
+  }
+.profile-picture:hover{
+    border-color: #e5e5e5;
+    color: #e5e5e5;
+}
